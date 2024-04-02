@@ -1,6 +1,6 @@
 for number in range(10):
     print('Hello')
-    print('Number is {number}')
+    print(f'Number is {number}')
 
 
 for x in range(40):
